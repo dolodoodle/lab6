@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Karma:wght@300;400;500;600;700&family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+#container{
+    background-color: pink;
+    width: 400px;
+    margin: auto;
+}
+body {
+    background-color: hotpink;
+}
+
+h1 {
+    font-family: 'Karma', serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+dt{
+    text-align: left;
+    padding: 1rem;
+    background-color: plum;
+    font-weight:bold;
+    font-family: 'Manrope', sans-serif;
+
+}
+
+dd {
+    text-align: left;
+    padding: 1rem;
+    padding-bottom: 1rem;
+    font-family: 'Manrope', sans-serif;
+    font-weight: thin;
+    font-size: 13px;
+}
